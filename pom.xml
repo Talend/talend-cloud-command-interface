@@ -64,11 +64,6 @@
             <version>4.4</version>
             <scope>test</scope>
         </dependency>
-        <dependency>
-            <groupId>security</groupId>
-            <artifactId>cryptor</artifactId>
-            <version>1.0</version>
-        </dependency>
     </dependencies>
 
 </project>
