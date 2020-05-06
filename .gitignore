@@ -1,4 +1,12 @@
 /.idea/
+/.settings/
+/.vscode/
+tcli
+tcli.exe
+tcli.jar
+.project
+.factorypath
+.classpath
 /target/
 talend-cloud-command-interface.iml
 /src/test/
