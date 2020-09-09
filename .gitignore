@@ -10,3 +10,4 @@ tcli.jar
 /target/
 talend-cloud-command-interface.iml
 /src/test/
+/jre/
